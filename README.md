@@ -1,6 +1,6 @@
 # Helium-3 Rich Period Detection in SEP Events
 
-This repository contains Jupyter Notebooks for analyzing Solar Energetic Particle (SEP) events to detect Helium-3 (He-3) rich periods using advanced machine learning techniques. The analysis is based on data from the Advanced Composition Explorer's Solar Isotope Spectrometer (ACE/SIS), spanning the years 2017 to 2024.
+This repository contains jupyter notebooks for studying Solar Energetic Particle (SEP) events to detect Helium-3 (He-3) rich periods using advanced machine learning techniques. The analysis is based on data from the Advanced Composition Explorer's Solar Isotope Spectrometer (ACE/SIS), spanning the years 2017 to 2024.
 
 ## Project Description
 
